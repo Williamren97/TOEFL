@@ -1,5 +1,8 @@
 # ACTUAL TEST01
+
 ## 01 - 04 
+
+```java
 Leaning against 靠着
 dinners客人
 fabric桌布
@@ -15,7 +18,7 @@ pharmacy药店
 Venue 场地
 Lend a hand 帮忙
 Evenly 平均的
- lot停车场
+lot停车场
 Invoice 发票
 comply符合
 inspection检查
@@ -42,4 +45,4 @@ delicate易碎
 Amusement park 游乐园
 Cardigan 羊毛衫
 Portfolio投资组合 
-
+```
