@@ -1,3 +1,6 @@
+### ACTUAL TEST2 LISTENING: 76/100 410/495
+
+
 語言中心
 👉最近爭取到臺科大教職員及學生參加多益的公開考試（Public test sessions)，可有200元的discount，原價是 1600元，我們只要付1400元。🤩
 
