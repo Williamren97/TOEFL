@@ -1,5 +1,17 @@
 
-# ACTUAL TEST3.md
+# ACTUAL TEST3
+
+9 10 11 12
+
+### PART1 0/10
+
+### PART2 6/30
+
+### PART3 5/30 
+
+### PART3 10/30
+
+### OVER ALL 79/100 430/495
 ```
 Regarding 關於
 work in pairs and take turns一起轮班工作
