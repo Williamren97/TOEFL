@@ -11,6 +11,7 @@
 
 ## ACTUAL TEST7 LISTENING: 81/100 440/495
 
+> The speed of audio be palyed in 1.20X
 ## ACTUAL TEST8 LISTENING: 79/100 430/495
 
 
