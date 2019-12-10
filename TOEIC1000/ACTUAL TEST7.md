@@ -13,7 +13,7 @@
 
 ### OVER ALL 80/100 440/495
 
-``
+```
 closet 衣櫃 cabinet櫃子 cupboard碗櫃
 trekking pole登山杖
 sack lunch 自備午餐
@@ -37,4 +37,4 @@ auditorium表演厅
 dazzled 惊呆
 heat高温
 
-``
+```
