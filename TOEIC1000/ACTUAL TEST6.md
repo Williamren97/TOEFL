@@ -12,6 +12,17 @@
 ### PART3 10/30
 
 ### OVER ALL 80/100 435/495
+
+## READING
+> 74 390
+
+### PART5 12/40
+
+### PART6 6/20
+
+### PART7 5/30 
+
+### PART8 8/40
 ```
 cashier结账桂圆
 lying on his back 正面躺著
