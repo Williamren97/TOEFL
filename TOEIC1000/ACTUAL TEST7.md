@@ -13,6 +13,9 @@
 
 ### OVER ALL 80/100 440/495
 
+### reading 72/100 335
+
+
 ```
 closet 衣櫃 cabinet櫃子 cupboard碗櫃
 trekking pole登山杖
