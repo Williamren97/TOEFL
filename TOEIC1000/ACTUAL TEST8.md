@@ -13,7 +13,6 @@
 
 ### OVER ALL 79/100 430/495
 
-### reading 72/100 335
 ```
 TV NEWS ANCHOR 电视新闻主播
 musci stand 譜架
